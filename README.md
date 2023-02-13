@@ -30,13 +30,13 @@ About me
 -  📄 Know about my skills  [Resume](https://drive.google.com/file/d/1TfBVRNQpG9hqmOxg3bVA0ywnNTXOxAqP/view?usp=share_link)
 
   
-  <h2 align="left">
+<!--   <h2 align="left">
 <img src="https://art.pixilart.com/486745d4bb1ef18.gif" width="20" height="20" align="center">
  Connect with me <img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
 </h2>
 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayushivashisth22/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-vashisth-64722816b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vashisth_ayushi) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-vashisth-64722816b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vashisth_ayushi)  -->
 
 <!-- <p align="left">
   <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
