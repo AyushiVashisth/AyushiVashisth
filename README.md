@@ -27,7 +27,7 @@ About me
  - <img src="https://i.pinimg.com/originals/a8/07/4e/a8074e95d5f7f8d65205bb77e0546b63.gif"  width="20" height="15"> My Github Repositories [Click here](https://github.com/AyushiVashisth?tab=repositories/)
  - <img src="https://cdn.pixabay.com/animation/2022/07/31/06/27/06-27-17-124_512.gif" width="20" height="15"> I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, & styled-components.
  - <img src="https://thumbs.gfycat.com/SplendidWarlikeBumblebee-size_restricted.gif" width="20" height="15"> How to reach me: **ayushivashisth22@gmail.com**
-<!-- -  📄 Know about my skills  [Resume]() -->
+<!-- -  📄 Know about my skills  [Resume](https://drive.google.com/file/d/1TfBVRNQpG9hqmOxg3bVA0ywnNTXOxAqP/view?usp=share_link) -->
 
   
   <h2 align="left">
@@ -35,14 +35,12 @@ About me
  Connect with me <img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
 </h2>
 
-<!-- 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100023588813593)
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/skg221/)  -->
-<!--  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-kumar-a13235244/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]()   -->
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayushivashisth22/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-vashisth-64722816b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vashisth_ayushi) 
 
 <!-- <p align="left">
   <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhi" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/AyushiVashisth/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhi" height="30" width="40" /></a>
 </p> -->
 <br/>
 
@@ -101,32 +99,34 @@ About me
  My Github Stats 
 <img src="https://art.pixilart.com/486745d4bb1ef18.gif" width="20" height="20" align="center">
 </h2>
+ </h2>
  <p align="center">
-<a href="https://github.com/abhi-swami">
+<a href="https://github.com/AyushiVashisth">
  </br>
-  <img  align="center" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhi-swami&layout=compact&langs_count=8&theme=dracula"/>
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=abhi-swami&theme=dracula" alt="abhi"
+  <img  align="center" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AyushiVashisth&layout=compact&langs_count=8&theme=vue-dark"/>
+  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=AyushiVashisth&theme=monokai" alt="ayushi"
    width ="100%"    align="center"
          height="200px" 
 /></a> </p>
-<div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
+<h1 display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
   <div>
-<p align="center"><img align="center"  src="https://github-readme-stats.vercel.app/api?username=abhi-swami&show_icons=true&locale=en&theme=dracula" alt="abhi" width="50%"/></p></div>
+<p align="center"><img align="center"  src="https://github-readme-stats.vercel.app/api?username=AyushiVashisth&show_icons=true&locale=en&theme=vue-dark" alt="ayushi" width="50%"/></p></div>
 <div>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-swami&theme=dracula" alt="abhi"  width="50%"/></p></div>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiVashisth&theme=vue-dark" alt="ayushi"  width="50%"/></p></div>
  <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi-swami&theme=monokai"  align="center"
-        width="50%" heigth="250px"
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushiVashisth&theme=monokai"  align="center"
+        width="100%" heigth="250px"
       /></p>
 
 
 <p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=abhi-swami&theme=dracula" alt="abhi-swami" align="center" /></a>
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=AyushiVashisth&theme=dracula" alt="ayushi" align="center" /></a>
 </p>
   <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![snake gif](https://github.com/abhi-swami/abhi-swami/blob/output/github-contribution-grid-snake.gif)
+
+![snake gif](https://github.com/AyushiVashisth/AyushiVashisth/blob/output/github-contribution-grid-snake.gif)
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
