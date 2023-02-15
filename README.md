@@ -119,19 +119,18 @@ About me
       /></p>
 
 
-<p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+<!-- <p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
     src="https://github-readme-activity-graph.cyclic.app/graph?username=AyushiVashisth&theme=dracula" alt="ayushi" align="center" /></a>
 </p>
   <br/>
-<!--  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<!-- ![snake gif](https://github.com/AyushiVashisth/AyushiVashisth/blob/output/github-contribution-grid-snake.gif) -->
-
-<!--   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![snake gif](https://github.com/AyushiVashisth/AyushiVashisth/blob/output/github-contribution-grid-snake.gif) 
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
-<!--  <p align="center">
+ <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=aaaaaThank You for giving your valuable time 😄; To view my GitHub Profile 👩‍🚀 🚀&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a> -->
-</p> -->
-
+    <img src="https://readme-typing-svg.demolab.com/?lines=aaaaaThank You for giving your valuable time 😄; To view my GitHub Profile 👩‍🚀 🚀&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
+</p> 
+ -->
