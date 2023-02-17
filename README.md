@@ -61,9 +61,7 @@ About me
 <br/>
   <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
   <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
-  
 </div>
- <br/>
   <div align="center"><h3 align="center">Backend</h3> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
@@ -88,8 +86,6 @@ About me
  </div>
 </div>
 
-<br/>
-<br/>
 <br/>
 <h2 align="center">
 <img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
