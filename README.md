@@ -108,22 +108,22 @@ About me
    width ="100%"    align="center"
          height="200px" 
 /></a> </p>
-<h1 display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
+<div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
   <div>
-<p align="center"><img align="center"  src="https://github-readme-stats.vercel.app/api?username=AyushiVashisth&show_icons=true&locale=en&theme=vue-dark" alt="ayushi" width="50%"/></p></div>
+<p align="center"><img align="left"  src="https://github-readme-stats.vercel.app/api?username=AyushiVashisth&show_icons=true&locale=en&theme=vue-dark" alt="ayushi" width="49%" height="200px"/></p></div>
 <div>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiVashisth&theme=vue-dark" alt="ayushi"  width="50%"/></p></div>
+<p align="center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiVashisth&theme=vue-dark" alt="ayushi" height="200px"  width="47%"/></p></div>
  <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushiVashisth&theme=monokai"  align="center"
         width="100%" heigth="250px"
       /></p>
 
 
-<!-- <p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+<p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
     src="https://github-readme-activity-graph.cyclic.app/graph?username=AyushiVashisth&theme=dracula" alt="ayushi" align="center" /></a>
 </p>
   <br/>
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ![snake gif](https://github.com/AyushiVashisth/AyushiVashisth/blob/output/github-contribution-grid-snake.gif) 
