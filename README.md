@@ -118,12 +118,20 @@ About me
   <br/>
  <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- ************************************************************************ -->
+<!-- grid-snake  -->
+<div align="center">
+ <img src="https://github.com/AyushiVashisth/AyushiVashisth/blob/output/github-contribution-grid-snake.svg"/>
 
-![snake gif](https://github.com/AyushiVashisth/AyushiVashisth/blob/output/github-contribution-grid-snake.gif) 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ </div>
+<!--  ![Snake animation](https://github.com/AyushiVashisth/AyushiVashisth/blob/output/github-contribution-grid-snake.svg) -->
+<!-- ************************************************************************ -->
+<!-- ************************************************************************ -->
+<!--![snake gif](https://github.com/AyushiVashisth/AyushiVashisth/blob/output/github-contribution-grid-snake.gif)  -->
+ <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
  
  <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=aaaaaThank You for giving your valuable time 😄; To view my GitHub Profile 👩‍🚀 🚀&font=Fira%20Code&center=true&width=440&height=45&color=#0B46B4FC&vCenter=true&size=22&pause=1000"></a>
 </p> 
- -->
+
