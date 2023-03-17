@@ -103,9 +103,9 @@ About me
 /></a> </p>
 <div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
   <div>
-<p align="center"><img align="left"  src="https://github-readme-stats.vercel.app/api?username=AyushiVashisth&show_icons=true&locale=en&theme=vue-dark" alt="ayushi" width="49%" height="200px"/></p></div>
+<p align="center"><img align="left"  src="https://github-readme-stats.vercel.app/api?username=AyushiVashisth&show_icons=true&locale=en&theme=vue-dark" alt="ayushi" width="46%" height="200px"/></p></div>
 <div>
-<p align="center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiVashisth&theme=vue-dark" alt="ayushi" height="200px"  width="47%"/></p></div>
+<p align="center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiVashisth&theme=vue-dark" alt="ayushi" height="200px"  width="50%"/></p></div>
  <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushiVashisth&theme=monokai"  align="center"
         width="100%" heigth="250px"
