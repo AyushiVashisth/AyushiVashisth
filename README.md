@@ -24,10 +24,11 @@ About me
  - <img src="https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/24/transparent-plant-gif/gif-plante-transparente-pflanze-animated-gif-on-gifer.gif"  width="25" height="20">I’m currently learning **MERN: Full Stack Web Developer.**
  - <img src="https://mrcoles.com/media/img/react-use-intersection-observer-anim.gif"  width="20" height="15"> Some technologies that I love to working with includes MERN stack, CSS,Typescript & Web Testing.
   - <img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  width="20" height="15"> My Portfilio [Click](https://ayushivashisth.github.io/)
- - <img src="https://i.pinimg.com/originals/a8/07/4e/a8074e95d5f7f8d65205bb77e0546b63.gif"  width="20" height="15"> My Github Repositories [Click](https://github.com/AyushiVashisth?tab=repositories/)
+<!--  - <img src="https://i.pinimg.com/originals/a8/07/4e/a8074e95d5f7f8d65205bb77e0546b63.gif"  width="20" height="15"> My Github Repositories [Click](https://github.com/AyushiVashisth?tab=repositories/) -->
  - <img src="https://cdn.pixabay.com/animation/2022/07/31/06/27/06-27-17-124_512.gif" width="20" height="15"> I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, & styled-components.
- - <img src="https://thumbs.gfycat.com/SplendidWarlikeBumblebee-size_restricted.gif" width="20" height="15"> How to reach me: [Email](ayushivashisth22@gmail.com)
--  📄 Know about my skills [Resume](https://drive.google.com/file/d/1_JcVUDemIdB8U72X8PfD4K7a-5vxQlqF/view?usp=share_link)
+ - <img src="https://thumbs.gfycat.com/SplendidWarlikeBumblebee-size_restricted.gif" width="20" height="15"> How to reach me: [Linkdin](ayushivashisth22@gmail.com) 
+<!--  - <img src="https://thumbs.gfycat.com/SplendidWarlikeBumblebee-size_restricted.gif" width="20" height="15"> How to reach me: [Email](ayushivashisth22@gmail.com) -->
+<!-- -  📄 Know about my skills [Resume](https://drive.google.com/file/d/1_JcVUDemIdB8U72X8PfD4K7a-5vxQlqF/view?usp=share_link) -->
 
   
 <!--   <h2 align="left">
