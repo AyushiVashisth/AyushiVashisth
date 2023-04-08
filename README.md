@@ -125,11 +125,15 @@ About me
 <!--  <img src="https://github.com/AyushiVashisth/AyushiVashisth/blob/output/github-contribution-grid-snake.svg"/> -->
 
  </div>
-![Snake animation](https://github.com/AyushiVashisth/AyushiVashisth/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/AyushiVashisth/AyushiVashisth/blob/output/github-contribution-grid-snake.svg) -->
 <!-- ************************************************************************ -->
 <!-- ************************************************************************ -->
 <!--![snake gif](https://github.com/AyushiVashisth/AyushiVashisth/blob/output/github-contribution-grid-snake.gif)  -->
  <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+  <div align="center">
+ <img src="https://github.com/AyushiVashisth/AyushiVashisth/blob/output/github-contribution-grid-snake.svg"/>
+
+ </div>
  
  <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
