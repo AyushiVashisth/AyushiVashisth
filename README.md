@@ -26,18 +26,19 @@ About me
   - <img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  width="20" height="15"> My Portfilio https://ayushivashisth.github.io
 <!--  - <img src="https://i.pinimg.com/originals/a8/07/4e/a8074e95d5f7f8d65205bb77e0546b63.gif"  width="20" height="15"> My Github Repositories [Click](https://github.com/AyushiVashisth?tab=repositories/) -->
  - <img src="https://cdn.pixabay.com/animation/2022/07/31/06/27/06-27-17-124_512.gif" width="20" height="15"> I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, & styled-components.
- - <img src="https://thumbs.gfycat.com/SplendidWarlikeBumblebee-size_restricted.gif" width="20" height="15"> How to reach me: https://www.linkedin.com/in/ayushi-vashisth-64722816b
+ - <img src="https://thumbs.gfycat.com/SplendidWarlikeBumblebee-size_restricted.gif" width="20" height="15"> How to reach me: https://www.linkedin.com/in/ayushi-vashisth-64722816b/
 <!--  - <img src="https://thumbs.gfycat.com/SplendidWarlikeBumblebee-size_restricted.gif" width="20" height="15"> How to reach me: **ayushivashisth22@gmail.com** -->
 <!-- -  📄 Know about my skills [Resume](https://drive.google.com/file/d/1_JcVUDemIdB8U72X8PfD4K7a-5vxQlqF/view?usp=share_link) [Linkdin]   [Click](-->
 
   
-<!--   <h2 align="left">
+   <h2 align="left">
 <img src="https://art.pixilart.com/486745d4bb1ef18.gif" width="20" height="20" align="center">
  Connect with me <img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
 </h2>
 
- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayushivashisth22/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-vashisth-64722816b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vashisth_ayushi)  -->
+<!--  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayushivashisth22/) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-vashisth-64722816b/) 
+<!--[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vashisth_ayushi)  -->
 
 <!-- <p align="left">
   <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
