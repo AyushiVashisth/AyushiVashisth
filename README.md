@@ -19,14 +19,25 @@ About me
  I am Confident, hardworking, and highly ambitious full-stack web developer🧑‍💻
 , with a keen interest to solve and learn new things 🧠. Dedicated 1000+ hours of coding and experience in developing functional websites 🖥️
 . Having good knowledge of Java-Script and React framework. Able to decode the pattern and problem 🧑‍🏫.
- <img align="right"  alt="Coding" width="380" height="250" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9100d753-02ac-4ed8-ac98-5e45d6deecad/depxc3c-2c74dc75-552f-4b74-9d49-a01ec4c8ea90.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkxMDBkNzUzLTAyYWMtNGVkOC1hYzk4LTVlNDVkNmRlZWNhZFwvZGVweGMzYy0yYzc0ZGM3NS01NTJmLTRiNzQtOWQ0OS1hMDFlYzRjOGVhOTAuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ACqc7kQ3zva5d9HmQ6rAM2TWKQ_6KA_YgK4pzBCzpbo">
-- <img src="https://cdn.dribbble.com/users/1144777/screenshots/7425396/media/b6749f82acf9a0ac4abc3382efea725b.gif"  width="25" height="20"> I’m currently exploring and polishing my skills
- - <img src="https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/24/transparent-plant-gif/gif-plante-transparente-pflanze-animated-gif-on-gifer.gif"  width="25" height="20">I’m currently learning **MERN: Full Stack Web Developer.**
- - <img src="https://mrcoles.com/media/img/react-use-intersection-observer-anim.gif"  width="20" height="15"> Some technologies that I love to working with includes MERN stack, CSS, Typescript & Web Testing.
-  - <img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  width="20" height="15"> My Portfilio https://ayushivashisth.github.io/
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+ 
+ ### 🧐 More About Me:
+
+- ☘️ &nbsp; I’m currently learning **full stack web development**
+- 🤝 &nbsp; I’m looking forward to work in software industry 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AyushiVashisth?tab=repositories)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ayushi-vashisth-64722816b/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1_JcVUDemIdB8U72X8PfD4K7a-5vxQlqF/view?usp=share_link)
+ 
+ 
+<!--  <img src="https://cdn.dribbble.com/users/1144777/screenshots/7425396/media/b6749f82acf9a0ac4abc3382efea725b.gif"  width="25" height="20"> I’m currently exploring and polishing my skills -->
+<!--  - <img src="https://cutewallpaper.org/cdn-cgi/mirage/2af0adefb1b7ebf6af3b94bf8b86378693ec8b55d34af727ac0cbb58dfd044f5/1280/24/transparent-plant-gif/gif-plante-transparente-pflanze-animated-gif-on-gifer.gif"  width="25" height="20">I’m currently learning **MERN: Full Stack Web Developer.** -->
+<!--  - <img src="https://mrcoles.com/media/img/react-use-intersection-observer-anim.gif"  width="20" height="15"> Some technologies that I love to working with includes MERN stack, CSS, Typescript & Web Testing. -->
+<!--   - <img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  width="20" height="15"> My Portfilio https://ayushivashisth.github.io/ -->
 <!--  - <img src="https://i.pinimg.com/originals/a8/07/4e/a8074e95d5f7f8d65205bb77e0546b63.gif"  width="20" height="15"> My Github Repositories [Click](https://github.com/AyushiVashisth?tab=repositories/) -->
- - <img src="https://cdn.pixabay.com/animation/2022/07/31/06/27/06-27-17-124_512.gif" width="20" height="15"> I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, & styled-components.
- - <img src="https://thumbs.gfycat.com/SplendidWarlikeBumblebee-size_restricted.gif" width="20" height="15"> How to reach me: https://www.linkedin.com/in/ayushi-vashisth-64722816b/
+<!--  - <img src="https://cdn.pixabay.com/animation/2022/07/31/06/27/06-27-17-124_512.gif" width="20" height="15"> I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, & styled-components. -->
+<!--  - <img src="https://thumbs.gfycat.com/SplendidWarlikeBumblebee-size_restricted.gif" width="20" height="15"> How to reach me: https://www.linkedin.com/in/ayushi-vashisth-64722816b/ -->
 <!--  - <img src="https://thumbs.gfycat.com/SplendidWarlikeBumblebee-size_restricted.gif" width="20" height="15"> How to reach me: **ayushivashisth22@gmail.com** -->
 <!-- -  📄 Know about my skills [Resume](https://drive.google.com/file/d/1_JcVUDemIdB8U72X8PfD4K7a-5vxQlqF/view?usp=share_link) [Linkdin]   [Click](-->
 
@@ -118,18 +129,11 @@ About me
     src="https://github-readme-activity-graph.cyclic.app/graph?username=AyushiVashisth&theme=dracula" alt="ayushi" align="center" /></a>
 </p>
   <br/>
- <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- ************************************************************************ -->
-<!-- grid-snake  -->
-<!-- <div align="center"> -->
-<!--  <img src="https://github.com/AyushiVashisth/AyushiVashisth/blob/output/github-contribution-grid-snake.svg"/> -->
-
-<!--  </div> -->
-<!-- ![Snake animation](https://github.com/AyushiVashisth/AyushiVashisth/blob/output/github-contribution-grid-snake.svg) -->
-<!-- ************************************************************************ -->
-<!-- ************************************************************************ -->
-<!-- ![snake gif](https://github.com/AyushiVashisth/AyushiVashisth/blob/output/github-contribution-grid-snake.gif)   -->
+<div align="center"><h3 align="center">🔝 Top Contributed Repo</h3> 
+  <p width="80%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+    src="https://github-contributor-stats.vercel.app/api?username=AyushiVashisth&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="ayushi" hight="100px" align="center" /></a>
+</p>
+  </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <div align="center">
  <img src="https://github.com/AyushiVashisth/AyushiVashisth/blob/output/github-contribution-grid-snake.svg"/>
