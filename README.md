@@ -42,13 +42,13 @@ About me
 <!-- -  📄 Know about my skills [Resume](https://drive.google.com/file/d/1_JcVUDemIdB8U72X8PfD4K7a-5vxQlqF/view?usp=share_link) [Linkdin]   [Click](-->
 
   
-   <h2 align="left">
-<img src="https://art.pixilart.com/486745d4bb1ef18.gif" width="20" height="20" align="center">
- Connect with me <img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
-</h2>
+  <h2 align="center">Connect with me:</h2>
+<p align="left">
+<a href="https://www.linkedin.com/in/ayushi-vashisth-64722816b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayushi-vashisth-64722816b/" height="30" width="40" /></a>
+</p>
 
 <!--  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayushivashisth22/) -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-vashisth-64722816b/) 
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushi-vashisth-64722816b/)  -->
 <!--[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vashisth_ayushi)  -->
 
 <!-- <p align="left">
