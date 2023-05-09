@@ -27,6 +27,7 @@ About me
 - 🤝 &nbsp; I’m looking forward to work in software industry 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AyushiVashisth?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- <img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  width="20" height="15"> My Portfilio https://ayushivashisth.github.io/ 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ayushi-vashisth-64722816b/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1_JcVUDemIdB8U72X8PfD4K7a-5vxQlqF/view?usp=share_link)
  
