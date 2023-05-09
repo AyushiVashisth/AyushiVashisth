@@ -110,31 +110,33 @@ About me
  <p align="center">
 <a href="https://github.com/AyushiVashisth">
  </br>
-  <img  align="center" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AyushiVashisth&layout=compact&langs_count=8&theme=react"/>
-  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=AyushiVashisth&theme=monokai" alt="ayushi"
+  <img  align="center" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AyushiVashisth&layout=compact&langs_count=8&bg_color=00000000&theme=react&border_color=61dafb"/>
+  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=AyushiVashisth&theme=darkhub&border_color=61dafb&color=61dafb" alt="ayushi"
    width ="100%"    align="center"
          height="200px" 
 /></a> </p>
 <div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
-  <div>
-   
-<p align="center"><img align="left"  src="https://github-readme-stats.vercel.app/api?username=AyushiVashisth&show_icons=true&locale=en&theme=react" alt="ayushi" width="46%" height="200px"/></p></div>
-<div>
+ <div align="center">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api?username=AyushiVashisth&bg_color=00000000&theme=react&show_icons=true&icon_color=61dafb&border_color=61dafb&text_color=FFFFFF"/>
+    <img widht="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiVashisth&background=FFFFFF00&theme=react&icon_color=61dafb&border_color=61dafb&fire=F1E05A&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF" />
+  </div>
+</div>
+  
   <br/>
-<p align="center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiVashisth&theme=react" alt="ayushi" height="200px"  width="46%"/></p></div>
  <p align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushiVashisth&theme=react"  align="center"
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushiVashisth&bg_color=00000000&theme=react&border_color=61dafb"  align="center"
         width="100%" heigth="250px"
       /></p>
 
 
 <p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=AyushiVashisth&theme=react" alt="ayushi" align="center" /></a>
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=AyushiVashisth&bg_color=00000000&theme=react&border_color=61dafb" alt="ayushi" align="center" /></a>
 </p>
   <br/>
 <div align="center"><h3 align="center">🔝 Top Contributed Repo</h3> 
   <p width="80%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-contributor-stats.vercel.app/api?username=AyushiVashisth&limit=5&theme=react&combine_all_yearly_contributions=true" alt="ayushi" hight="100px" align="center" /></a>
+    src="https://github-contributor-stats.vercel.app/api?username=AyushiVashisth&limit=5&bg_color=00000000&theme=react&border=4E406F&border_color=61dafb&border_radius=15&combine_all_yearly_contributions=true" alt="ayushi" hight="100px" align="center" /></a>
 </p>
   </div>
   
@@ -145,11 +147,11 @@ About me
 <div width="100%" align="center">
 
   <a align="left" href="https://github.com/AyushiVashisth/medi-green-health" title="medi">
-  <img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=medi-green-health&theme=react&border_color=61dafb&border_radius=10">
+  <img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=medi-green-health&bg_color=00000000&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
   <a align="right" href="https://github.com/AyushiVashisth/eyecare" title="eyecare">
-  <img align="right" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=eyecare&theme=react&border_color=61dafb&border_radius=10">
+  <img align="right" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=eyecare&bg_color=00000000&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
 </div>
@@ -159,11 +161,11 @@ About me
 <div width="100%" align="center">
 
   <a align="left" href="https://github.com/AyushiVashisth/palm-beauty" title="palmbeauty">
-  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=palm-beauty&theme=react&border_color=61dafb&border_radius=10">
+  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=palm-beauty&bg_color=00000000&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
   <a align="right" href="https://github.com/AyushiVashisth/OLX_Website" title="olx">
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=OLX_Website&theme=react&border_color=61dafb&border_radius=10">
+  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=OLX_Website&bg_color=00000000&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
 </div>
@@ -173,11 +175,11 @@ About me
 <div width="100%" align="center">
 
   <a align="left" href="https://github.com/AyushiVashisth/AyushiVashisth.github.io" title="my_portfolio">
-  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=AyushiVashisth.github.io&theme=react&border_color=61dafb&border_radius=10">
+  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=AyushiVashisth.github.io&bg_color=00000000&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
   <a align="right" href="https://github.com/AyushiVashisth/pwm-engagedbuy" title="pwm">
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=pwm-engagedbuy&theme=react&border_color=61dafb&border_radius=10">
+  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=pwm-engagedbuy&bg_color=00000000&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
 </div>
