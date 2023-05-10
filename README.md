@@ -118,7 +118,7 @@ About me
 <div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
  <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AyushiVashisth&bg_color=00000000&theme=react&show_icons=true&icon_color=61dafb&border_color=61dafb&text_color=FFFFFF"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AyushiVashisth&bg_color=000000&theme=react&show_icons=true&icon_color=61dafb&border_color=61dafb&text_color=FFFFFF"/>
     <img widht="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiVashisth&bg_color=000000&theme=react&icon_color=61dafb&border_color=61dafb&text_color=FFFFFF&fire=F1E05A&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF" />
   </div>
 </div>
