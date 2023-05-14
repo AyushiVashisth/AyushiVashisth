@@ -27,9 +27,9 @@ About me
 - 🤝 &nbsp; I’m looking forward to work in software industry 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/AyushiVashisth?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- <img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  width="20" height="15"> My Portfilio https://ayushivashisth.github.io/ 
+- <img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  width="20" height="15"> My Portfilio [Portfilio](https://ayushivashisth.github.io/)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ayushi-vashisth-64722816b/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1_JcVUDemIdB8U72X8PfD4K7a-5vxQlqF/view?usp=share_link)
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1_JcVUDemIdB8U72X8PfD4K7a-5vxQlqF/view?usp=share_link)
  
  
 <!--  <img src="https://cdn.dribbble.com/users/1144777/screenshots/7425396/media/b6749f82acf9a0ac4abc3382efea725b.gif"  width="25" height="20"> I’m currently exploring and polishing my skills -->
