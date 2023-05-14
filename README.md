@@ -16,9 +16,7 @@ About me
  <img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
 </h1>
 
- I am Confident, hardworking, and highly ambitious full-stack web developer🧑‍💻
-, with a keen interest to solve and learn new things 🧠. Dedicated 1000+ hours of coding and experience in developing functional websites 🖥️
-. Having good knowledge of Java-Script and React framework. Able to decode the pattern and problem 🧑‍🏫.
+💻🚀 As a full-stack web developer, I'm driven, diligent, and determined to succeed. I approach every project with confidence and an unquenchable thirst for knowledge, always eager to tackle new challenges and expand my skills. With over 1000 hours of coding experience, I'm skilled in developing functional websites that deliver results. 🔍🧠 My passion for problem-solving and aptitude for decoding patterns make me an asset to any team. I'm particularly proficient in JavaScript and the React framework, and I'm always striving to improve. 🌟
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
  
  ### 🧐 More About Me:
