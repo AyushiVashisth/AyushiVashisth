@@ -146,26 +146,12 @@ About me
 
 <div width="100%" align="center">
 
-  <a align="left" href="https://github.com/AyushiVashisth/medi-green-health" title="medi">
-  <img align="left" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=medi-green-health&bg_color=000000&theme=react&border_color=61dafb&border_radius=10">
+   <a align="left" href="https://github.com/AyushiVashisth/maidful-movement" title="maidful">
+  <img align="left" width="45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=maidful-movement&bg_color=000000&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
-  <a align="right" href="https://github.com/AyushiVashisth/eyecare" title="eyecare">
-  <img align="right" width="40%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=eyecare&bg_color=000000&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  
-</div>
-
-<br/><br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-
-  <a align="left" href="https://github.com/AyushiVashisth/palm-beauty" title="palmbeauty">
-  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=palm-beauty&bg_color=000000&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  
-  <a align="right" href="https://github.com/AyushiVashisth/OLX_Website" title="olx">
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=OLX_Website&bg_color=000000&theme=react&border_color=61dafb&border_radius=10">
+  <a align="right" href="https://github.com/AyushiVashisth/medi-green-health" title="medi">
+  <img align="right" width="45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=medi-green-health&bg_color=000000&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
 </div>
@@ -174,12 +160,26 @@ About me
 
 <div width="100%" align="center">
 
-  <a align="left" href="https://github.com/AyushiVashisth/AyushiVashisth.github.io" title="my_portfolio">
-  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=AyushiVashisth.github.io&bg_color=000000&theme=react&border_color=61dafb&border_radius=10">
+   <a align="left" href="https://github.com/AyushiVashisth/eyecare" title="eyecare">
+  <img align="left" width="45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=eyecare&bg_color=000000&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
-  <a align="right" href="https://github.com/AyushiVashisth/pwm-engagedbuy" title="pwm">
-  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=pwm-engagedbuy&bg_color=000000&theme=react&border_color=61dafb&border_radius=10">
+  <a align="right" href="https://github.com/AyushiVashisth/palm-beauty" title="palmbeauty">
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=palm-beauty&bg_color=000000&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  
+</div>
+
+<br/><br/><br/><br/><br/><br/><br/>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/AyushiVashisth/OLX_Website" title="olx">
+  <img align="left" width="45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=OLX_Website&bg_color=000000&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  
+ 
+  <a align="right" href="https://github.com/AyushiVashisth/AyushiVashisth.github.io" title="my_portfolio">
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=AyushiVashisth.github.io&bg_color=000000&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
 </div>
