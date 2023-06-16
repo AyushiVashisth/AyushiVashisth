@@ -109,7 +109,7 @@ About me
 <a href="https://github.com/AyushiVashisth">
  </br>
   <img  align="center" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AyushiVashisth&layout=compact&langs_count=8&bg_color=000000&theme=react&border_color=61dafb"/>
-  <p align="center" margin-left="5"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=AyushiVashisth&theme=darkhub&border_color=61dafb&color=61dafb" alt="ayushi"
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=AyushiVashisth&theme=darkhub&border_color=61dafb&color=61dafb" alt="ayushi"
    width ="100%"    align="center"
          height="200px" 
 /></a> </p>
@@ -162,8 +162,8 @@ About me
   <img align="left" width="45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=eyecare&bg_color=000000&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
-  <a align="right" href="https://github.com/AyushiVashisth/palm-beauty" title="palmbeauty">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=palm-beauty&bg_color=000000&theme=react&border_color=61dafb&border_radius=10">
+  <a align="right" href="https://github.com/AyushiVashisth/Sunglow-Fashion" title="Sunglow-Fashion">
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=Sunglow-Fashion&bg_color=000000&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
 </div>
@@ -171,13 +171,13 @@ About me
 <br/><br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/AyushiVashisth/OLX_Website" title="olx">
-  <img align="left" width="45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=OLX_Website&bg_color=000000&theme=react&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/AyushiVashisth/palm-beauty" title="">
+  <img align="left" width="45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=palm-beauty&bg_color=000000&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
  
-  <a align="right" href="https://github.com/AyushiVashisth/AyushiVashisth.github.io" title="my_portfolio">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=AyushiVashisth.github.io&bg_color=000000&theme=react&border_color=61dafb&border_radius=10">
+  <a align="right" href="https://github.com/AyushiVashisth/olx-website-clone" title="olx-website-clone">
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AyushiVashisth&repo=olx-website-clone&bg_color=000000&theme=react&border_color=61dafb&border_radius=10">
   </a>
   
 </div>
