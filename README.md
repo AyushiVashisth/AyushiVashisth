@@ -102,25 +102,34 @@ About me
 <h2 align="center">
 <img src="https://art.pixilart.com/486745d4bb1ef18.gif"  width="20" height="20" align="center">
  My Github Stats 
+<!--   &bg_color=000000 -->
 <img src="https://art.pixilart.com/486745d4bb1ef18.gif" width="20" height="20" align="center">
 </h2>
  </h2>
  <p align="center">
 <a href="https://github.com/AyushiVashisth">
  </br>
-  <img  align="center" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AyushiVashisth&layout=compact&langs_count=8&bg_color=000000&theme=react&border_color=61dafb"/>
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=AyushiVashisth&theme=darkhub&border_color=61dafb&color=61dafb" alt="ayushi"
-   width ="100%"    align="center"
+  <img  align="center" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AyushiVashisth&layout=compact&langs_count=8&theme=react&border_color=61dafb"/>
+<!--   <p align="center"  width ="80%"> 
+    <a  width ="80%" href="https://github.com/ryo-ma/github-profile-trophy" align="center"><img src="https://github-profile-trophy.vercel.app/?username=AyushiVashisth&theme=darkhub&border_color=61dafb&color=61dafb" alt="ayushi"
+   width ="80%"    align="center"
          height="200px" 
-/></a> </p>
-<div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
+/></a> </p> -->
+
+ <p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushiVashisth&theme=react">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushiVashisth&theme=react">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushiVashisth&theme=react">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AyushiVashisth&theme=react&utcOffset=8">
+	
+</p>
+  <div display="grid" grid-template-column="repeat(2,1fr)" width="95" magin="auto">
  <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AyushiVashisth&bg_color=000000&theme=react&show_icons=true&icon_color=61dafb&border_color=61dafb&text_color=FFFFFF"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AyushiVashisth&theme=react&show_icons=true&icon_color=61dafb&border_color=61dafb&text_color=FFFFFF"/>
     <img widht="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiVashisth&bg_color=000000&theme=react&icon_color=61dafb&border_color=61dafb&text_color=FFFFFF&fire=F1E05A&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF" />
   </div>
 </div>
-  
   <br/>
  <p align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushiVashisth&bg_color=00000000&theme=react&border_color=61dafb"  align="center"
@@ -128,13 +137,14 @@ About me
       /></p>
 
 
-<p width="50%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=AyushiVashisth&bg_color=000000&theme=react&border_color=61dafb" alt="ayushi" align="center" /></a>
-</p>
+ 
+
+
+
   <br/>
 <div align="center"><h3 align="center">🔝 Top Contributed Repo</h3> 
   <p width="80%" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-contributor-stats.vercel.app/api?username=AyushiVashisth&limit=5&bg_color=000000&theme=react&border=4E406F&border_color=61dafb&border_radius=15&combine_all_yearly_contributions=true" alt="ayushi" hight="100px" align="center" /></a>
+    src="https://github-contributor-stats.vercel.app/api?username=AyushiVashisth&limit=5&theme=react&border=4E406F&border_color=61dafb&border_radius=15&combine_all_yearly_contributions=true" alt="ayushi" hight="100px" align="center" /></a>
 </p>
   </div>
   
