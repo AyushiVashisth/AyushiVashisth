@@ -195,7 +195,7 @@ About me
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/a11yus?tab=repositories" title="Show Repositories">Show More</a>
+  <a href="https://github.com/AyushiVashisth?tab=repositories" title="Show Repositories">Show More</a>
 </h4>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <div align="center">
